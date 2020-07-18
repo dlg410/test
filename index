@@ -1,0 +1,51 @@
+</html>
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <title>Activity 1: Basic HTML Bio</title>
+</head>
+
+<body>
+
+  <h1>Diego Gonzalez</h1>
+
+  <img src="https://www.bootcampspot.com/broker/studentAvatar?accountId=52541">
+
+  <p>Write a short paragraph about yourself or some placeholder text.</p>
+  <p>A second short paragraph about yourself or some placeholder text.</p>
+
+  <ul>
+    <li><strong>Email:</strong> <a href="#">dlg410@gmail.com</a></li>
+    <li><strong>Github:</strong> <a href="#">dlg410</a></li>
+  </ul>
+
+  <table>
+    <tr>
+      <th>Books</th>
+      <th>Movies</th>
+      <th>Games</th>
+    </tr>
+    <tr>
+      <td>1 book</td>
+      <td>1 movie</td>
+      <td>1 game</td>
+    </tr>
+    <tr>
+      <td>2 book</td>
+      <td>2 movie</td>
+      <td>2 game</td>
+    </tr>
+    <tr>
+      <td>3 book</td>
+      <td>3 movie</td>
+      <td>3 game</td>
+    </tr>
+  </table>
+
+  <!-- Bonus link to last class page -->
+  <a href="../../../../1/Activities/04-Stu_MyFirst_HTML/Solved/my-first-bonus.html">My First HTML Bonus</a>
+
+</body>
+
+</html>
